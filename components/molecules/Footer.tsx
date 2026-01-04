@@ -8,10 +8,10 @@ const Footer = () => {
       <Link
         isExternal
         className="flex items-center gap-1 text-current"
-        href="https://handikatriarlan.dev"
-        title="Arlan Tri Handika - Portfolio"
+        href="https://wwww.pakteguh.com"
+        title="Pak Teguh"
       >
-        <span className="text-primary"> handikatriarlan</span>
+        <span className="text-primary"> Pak Teguh</span>
       </Link>
     </footer>
   );
