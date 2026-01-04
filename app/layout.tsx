@@ -32,20 +32,20 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Arlan Tri Handika",
-      url: "https://handikatriarlan.dev",
+      name: "Pak Teguh",
+      url: "https://www.pakteguh.com",
     },
   ],
-  creator: "Arlan Tri Handika",
-  publisher: "Arlan Tri Handika",
-  metadataBase: new URL("https://scribd.handikatriarlan.dev"),
+  creator: "Pak Teguh",
+  publisher: "Pak Teguh",
+  metadataBase: new URL("https://scribd.pakteguh.com"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://scribd.handikatriarlan.dev",
+    url: "https://scribd.pakteguh.com",
     title: siteConfig.name,
     description: siteConfig.description,
     siteName: siteConfig.name,
